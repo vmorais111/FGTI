@@ -16,10 +16,9 @@ Pessoas com TDAH frequentemente enfrentam dificuldades para manter uma rotina es
 
 ![image](https://github.com/user-attachments/assets/72b00c30-1b6b-40bd-8c0c-35348af5fd0c)
 
+# Personas Mapeadas
 
-## Personas Mapeadas
-
-### Persona 1: Ana Paula
+## Persona 1: Ana Paula
 
 - **Cargo / Função:** Estudante de Medicina
 - **Empresa:** Universidade Federal do Rio de Janeiro (UFRJ)
@@ -36,7 +35,7 @@ Pessoas com TDAH frequentemente enfrentam dificuldades para manter uma rotina es
   - Organização automática de tarefas
   - Visualização de conquistas diárias
 
-### Persona 2: Lucas Santana
+## Persona 2: Lucas Santana
 
 - **Cargo / Função:** Estudante de cursinho preparatório para concurso
 - **Empresa:** Cursinho Aprova Mais
@@ -53,7 +52,7 @@ Pessoas com TDAH frequentemente enfrentam dificuldades para manter uma rotina es
   - Lembretes inteligentes
   - Aplicação de técnicas de produtividade
 
-### Persona 3: Larissa Gomes
+## Persona 3: Larissa Gomes
 
 - **Cargo / Função:** Estudante EAD de Administração
 - **Empresa:** Universidade Estaácio de Sá (EAD)
