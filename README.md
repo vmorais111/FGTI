@@ -1,8 +1,8 @@
-# FocusMind - Gestão de Estudos para Pessoas com TDAH
+# Entrega 1 - APP de Gestão de Estudos para Pessoas com TDAH
 
 #  Visão do Produto
 
-FocusMind é um aplicativo mobile responsivo voltado para estudantes que enfrentam dificuldades de foco e organização devido ao Transtorno de Déficit de Atenção e Hiperatividade (TDAH). A aplicação oferece funcionalidades como cadastro de atividades de estudo, divisão de grandes tarefas em micrometas, controle de tempo com técnicas como Pomodoro, envio de lembretes inteligentes e visualização de progresso em uma interface simples e amigável.
+Trata-se de um aplicativo mobile responsivo voltado para estudantes que enfrentam dificuldades de foco e organização devido ao Transtorno de Déficit de Atenção e Hiperatividade (TDAH). A aplicação oferece funcionalidades como cadastro de atividades de estudo, divisão de grandes tarefas em micrometas, controle de tempo com técnicas como Pomodoro, envio de lembretes inteligentes e visualização de progresso em uma interface simples e amigável, além de gameficação para mostrar o avanço na conquista de metas.
 
 ## Objetivo
 
